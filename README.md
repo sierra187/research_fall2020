@@ -15,3 +15,7 @@ Week 3 (09/29 - 10/06):
 - Wrote function that turns leakage list into 2D numpy array of dimensions (number of queries, length of longest query), this will be what is fed into the neural net
 - Looked at another tensorflow neural net tutorial classifying Fashion MNIST dataset, also have been using tensorflow for CNN's in my Deep Learning class
 
+
+Week 4 (10/06 - 10/13):
+- made function that creates inputs and labels numpy array. Inputs are of shape (number of databases, largest number of queries, length of longest query). Databases are padded so that they are each the same size.
+- started building a neural net using tensorflow and keras. Currently accuracy is very very low.
