@@ -17,5 +17,10 @@ Week 3 (09/29 - 10/06):
 
 
 Week 4 (10/06 - 10/13):
-- made function that creates inputs and labels numpy array. Inputs are of shape (number of databases, largest number of queries, length of longest query). Databases are padded so that they are each the same size.
-- started building a neural net using tensorflow and keras. Currently accuracy is very very low.
+- Made function that creates inputs and labels numpy array. Inputs are of shape (number of databases, largest number of queries, length of longest query). Databases are padded so that they are each the same size.
+- Started building a neural net using tensorflow and keras. Currently accuracy is very very low.
+
+Week 5 (10/13 - 10/20):
+- Added empty queries as row of -1s to leakage, hopefully this will help nn recoginize patterns
+- Plotted some of the data to see if any patterns are visually recognizable, there definitely appears to be some patterns between the hashed data points and in the padding and empty queries
+- Looked into different types of neural nets
