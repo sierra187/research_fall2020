@@ -24,3 +24,8 @@ Week 5 (10/13 - 10/20):
 - Added empty queries as row of -1s to leakage, hopefully this will help nn recoginize patterns
 - Plotted some of the data to see if any patterns are visually recognizable, there definitely appears to be some patterns between the hashed data points and in the padding and empty queries
 - Looked into different types of neural nets
+
+Week 6 (10/20 - 20/27):
+- The goal of this week was to make modifications to produce less data so that the model could run faster and not shut down google colab, then work on the model itself
+- created functions that specifically genearate sparse and dense and created limits on size of query rectangle to make model faster
+- played with model changing hyperparameters on layers and number of layers
