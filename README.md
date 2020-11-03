@@ -25,7 +25,11 @@ Week 5 (10/13 - 10/20):
 - Plotted some of the data to see if any patterns are visually recognizable, there definitely appears to be some patterns between the hashed data points and in the padding and empty queries
 - Looked into different types of neural nets
 
-Week 6 (10/20 - 20/27):
+Week 6 (10/20 - 10/27):
 - The goal of this week was to make modifications to produce less data so that the model could run faster and not shut down google colab, then work on the model itself
-- created functions that specifically genearate sparse and dense and created limits on size of query rectangle to make model faster
-- played with model changing hyperparameters on layers and number of layers
+- Created functions that specifically genearate sparse and dense and created limits on size of query rectangle to make model faster
+- Played with model changing hyperparameters on layers and number of layers
+
+Week 7 (10/27 - 11/03):
+- Created different types of sparse and dense databases (exactly one point at each index, very sparse, sparse that fades). Each of these performed extremely well on the model, better than just dense and sparse.
+- Started importing data from the chicago crimes map database
