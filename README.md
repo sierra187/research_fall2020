@@ -38,3 +38,7 @@ Week 8 (11/03 - 11/10):
 - Model now uses a uniformly random distribution of the 5 different types of databases
 - Model now has 3 classes: very sparse (<40% of indices in db have points), sparse (>=40% and <100%), and dense (100%)
 - Tried working with chicago crimes map database, still trying to figure out how to make the data smaller
+
+Week 9 (11/10 - 11/17):
+- Worked on preprocessing the chicago crimes map database, specifically turning the lattitute and longitude and the time of crime and type of crime into two databases that can be input to the model
+- So far I am having bugs with this preprocessing
