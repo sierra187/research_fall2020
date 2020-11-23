@@ -45,7 +45,7 @@ Week 9 (11/10 - 11/17):
 
 Week 10 (11/17 - 11/24):
 - Finished making databases out of the Chicago Crimes Map database. One db is lattitude vs. longitude and the other is time of crime vs. type of crime. 
-- Fed the two crimes map databases through the model and they did very well often getting 100% test accuracy.
+- Fed the two crimes map databases through the model and they did very well often getting above 95% test accuracy.
 - Reorganized the colab document for better flow.
 - Created a method that plots all the different databases to show what they look like.
 - Started creating final paper write up.
