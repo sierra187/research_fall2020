@@ -42,3 +42,10 @@ Week 8 (11/03 - 11/10):
 Week 9 (11/10 - 11/17):
 - Worked on preprocessing the chicago crimes map database, specifically turning the lattitute and longitude and the time of crime and type of crime into two databases that can be input to the model
 - So far I am having bugs with this preprocessing
+
+Week 10 (11/17 - 11/24):
+- Finished making databases out of the Chicago Crimes Map database. One db is lattitude vs. longitude and the other is time of crime vs. type of crime. 
+- Fed the two crimes map databases through the model and they did very well often getting 100% test accuracy.
+- Reorganized the colab document for better flow.
+- Created a method that plots all the different databases to show what they look like.
+- Started creating final paper write up.
