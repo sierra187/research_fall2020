@@ -49,3 +49,8 @@ Week 10 (11/17 - 11/24):
 - Reorganized the colab document for better flow.
 - Created a method that plots all the different databases to show what they look like.
 - Started creating final paper write up.
+
+Week 11 (11/24 - 12/1):
+- Added Providence Police Case Log data using same two databases as the Chicago data. 
+- Having an issue where preprocessing the providence data takes a long time, so I am trying to save preprocessed data in global variable, but this variable is getting overwritten somewhere and I am unsure where.
+- Jot down some ideas of things to include in paper.
