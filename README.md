@@ -57,3 +57,7 @@ Week 11 (11/24 - 12/1):
 - Added Providence Police Case Log data using same two databases as the Chicago data. 
 - Having an issue where preprocessing the providence data takes a long time, so I am trying to save preprocessed data in global variable, but this variable is getting overwritten somewhere and I am unsure where.
 - Jot down some ideas of things to include in paper.
+
+Week 12 (12/1 - 12/8):
+- Created new file to preprocess providence data in. Incorporated providence data into model.
+- Wrote draft of paper.
