@@ -61,3 +61,6 @@ Week 11 (11/24 - 12/1):
 Week 12 (12/1 - 12/8):
 - Created new file to preprocess providence data in. Incorporated providence data into model.
 - Wrote draft of paper.
+
+Week 13 (12/8 - 12/11):
+- Finished paper!!!
