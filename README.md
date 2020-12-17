@@ -1,7 +1,7 @@
 README research_fall2020
 
 Full project paper:
-https://www.overleaf.com/5649567297pjtmjpqkzjqw
+https://www.overleaf.com/read/gdjwxqkmpxsf
 
 Week 1 (09/15 - 09/22):
 - Indtroduced to project
